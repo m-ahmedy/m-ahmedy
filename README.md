@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building new and amazing software.
-- 🌱 I’m currently learning DevOps and SRE. 
+- 🔭 I work on building new and amazing software.
+- 🌱 Practicing the SRE mindset to deliver reliable software services. 
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: [mahmoud.s.ahmedy@gmail.com](mailto:mahmoud.s.ahmedy@gmail.com) - [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmedy/)
 
