@@ -1,9 +1,46 @@
-### Hi there 👋
+# Hi there, I'm Mahmoud Ahmedy 👋
 
-- 🔭 I work on building new and amazing software.
-- 🌱 Practicing the SRE mindset to deliver reliable software services. 
-- 💬 Ask me about anything tech related.
-- 📫 How to reach me: [Email](mailto:mahmoud.s.ahmedy@gmail.com) - [LinkedIn](https://www.linkedin.com/in/mahmoud-ahmedy/)
+🚀 Site Reliability Engineer | 🖥️ Golang Enthusiast | ☁️ Cloud-Native Explorer  
 
-[![m-ahmedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-ahmedy&show_icons=true&count_private=true&hide_title=true)](https://github.com/m-ahmedy/m-ahmedy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-ahmedy&layout=compact&langs_count=10)](https://github.com/m-ahmedy?tab=repositories)
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-ahmedy&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false&count_private=true" alt="m-ahmedy's GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-ahmedy&theme=github-dark&hide_border=true" alt="GitHub Streak" height="150"/>
+</p>
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: Go, Bash, Python (basic)
+- **Infrastructure**: Kubernetes, Docker, Linux, Terraform
+- **Cloud**: AWS (SAA Certified), GCP (learning)
+- **Tools**: Prometheus, Grafana, Git, ArgoCD, Helm
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-ahmedy&theme=github-dark" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- ✨ Building cloud-native tooling with **Go**
+- 🛡️ Advanced Kubernetes patterns
+- 🚀 System Design and Scalability for Production Engineering
+
+---
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/m-ahmedy/)  
+- [Portfolio](#) (Coming Soon!)
+
+---
