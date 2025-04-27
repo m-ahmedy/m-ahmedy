@@ -15,9 +15,9 @@
 
 ## 🛠️ Skills
 
-- **Languages**: Go, Bash, Python (basic)
+- **Languages**: Go, Bash, Python
 - **Infrastructure**: Kubernetes, Docker, Linux, Terraform
-- **Cloud**: AWS (SAA Certified), GCP (learning)
+- **Cloud**: AWS (SAA Certified), GCP
 - **Tools**: Prometheus, Grafana, Git, ArgoCD, Helm
 
 ---
@@ -40,7 +40,8 @@
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/m-ahmedy/)  
+- [LinkedIn](https://www.linkedin.com/in/m-ahmedy/)
+- [Hashnode](https://ahmedy.hashnode.dev/)
 - [Portfolio](#) (Coming Soon!)
 
 ---
